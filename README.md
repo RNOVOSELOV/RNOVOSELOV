@@ -17,6 +17,15 @@ Here are some ideas to get you started:
   <img src="https://media3.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="140"/>
 </div>
 <br/>
+<!--
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/RNOVOSELOV">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
+-->
+
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
@@ -44,19 +53,5 @@ Here are some ideas to get you started:
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=RNOVOSELOV&count_private=true&show_icons=true)](https://github.com/RNOVOSELOV) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RNOVOSELOV&layout=compact&langs_count=8)](https://github.com/RNOVOSELOV)
   <br/>
-  <br/>
-  <br/>
-  ![Jokes Card](https://readme-jokes.vercel.app/api)
-<br/>
-<br/>
-  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/RNOVOSELOV)
-  [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:r.novoseloff@gmail.com)
-  <br/>
-<!--
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/RNOVOSELOV">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-
--->
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/RNOVOSELOV)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:r.novoseloff@gmail.com)
