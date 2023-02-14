@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <img src="https://i.giphy.com/media/TFPdmm3rdzeZ0kP3zG/giphy.webp" width="140"/>
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
