@@ -44,3 +44,18 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"  title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" title="trello"  alt="trello" width="40" height="40"/>&nbsp;
 </div>
+
+---
+<div id="langs" align="center">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RNOVOSELOV&layout=compact&langs_count=8)](https://github.com/RNOVOSELOV)
+  <br/>
+  ![Jokes Card](https://readme-jokes.vercel.app/api)
+</div>
+
+
+<div id="langs" align="right">
+  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/RNOVOSELOV)
+  [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:r.novoseloff@gmail.com)
+</div>
+
+
