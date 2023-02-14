@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.webp" width="140"/>
+  <img src="https://media3.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="140"/>
 </div>
 <br/>
 <div id="badges" align="center">
