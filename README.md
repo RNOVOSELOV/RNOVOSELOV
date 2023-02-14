@@ -43,11 +43,11 @@ Here are some ideas to get you started:
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RNOVOSELOV&layout=compact&langs_count=8)](https://github.com/RNOVOSELOV)
   <br/>
+  <br/>
+  <br/>
   ![Jokes Card](https://readme-jokes.vercel.app/api)
-
 <br/>
-
-
+<br/>
   [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/RNOVOSELOV)
   [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:r.novoseloff@gmail.com)
   <br/>
