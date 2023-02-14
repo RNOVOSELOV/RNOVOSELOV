@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/RNOVOSELOV">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="tg://resolve?domain=rnovoseloff">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="your-twitter-URL">
