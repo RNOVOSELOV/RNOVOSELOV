@@ -18,15 +18,10 @@ Here are some ideas to get you started:
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/TFPdmm3rdzeZ0kP3zG/giphy.webp" width="140"/>
 </div>
-
+<br/>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/RNOVOSELOV">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="tg://resolve?domain=rnovoseloff">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
 </div>
+<br/>
