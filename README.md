@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 ---
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=RNOVOSELOV&count_private=true&show_icons=true)](https://github.com/RNOVOSELOV) 
-  <br/>
+  &nbsp;&nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RNOVOSELOV&layout=compact&langs_count=8)](https://github.com/RNOVOSELOV)
   <br/>
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/RNOVOSELOV)
