@@ -53,4 +53,5 @@ Here are some ideas to get you started:
   <br/>
   
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/RNOVOSELOV)
+  &nbsp;&nbsp;
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:r.novoseloff@gmail.com)
