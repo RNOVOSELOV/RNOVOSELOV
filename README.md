@@ -4,7 +4,7 @@
 
 Hello there this is **Roman Novoselov**. Working as [Middle Software Designer](https://www.linkedin.com/in/RNOVOSELOV) at [Azimut](https://en.azimut.ru/). You can see my opensource work down below. I love to code in C++, Dart, Java and etc. You can connect with me on social media, I would love to help you if needed.
   
-<table width="100" align='center'>
+<table width="100" align='center' style="border: 1px solid transparent">
 <tr>
     <td align='center' width="60">
         <a href="https://www.instagram.com/megamutant/"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png"></a>
