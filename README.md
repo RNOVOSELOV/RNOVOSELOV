@@ -1,6 +1,6 @@
 <h2 align='center'> <i>Hi All!</h2>  
 
-<img align="right" src="https://github.com/RNOVOSELOV/RNOVOSELOV/blob/main/resources/image_1.gif.svg"  width="400">
+<img align="right" src="https://github.com/RNOVOSELOV/RNOVOSELOV/blob/main/resources/image_1.gif"  width="400">
   
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/RNOVOSELOV">
