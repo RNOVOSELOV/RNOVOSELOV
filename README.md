@@ -1,10 +1,10 @@
-<h1 align='center'>Hi All</h1>  
+<h3 align='center'>Hi All</h3>  
 
 <img align="right" src="https://github.com/RNOVOSELOV/RNOVOSELOV/blob/main/resources/image_1.gif"  width="300">
 
 Hello, I'm **Roman Novoselov**. Working as [Middle Software Designer](https://www.linkedin.com/in/RNOVOSELOV) at [Azimut](https://en.azimut.ru/). You can see my opensource work down below. I love to code in C++, Dart, Java and etc. You can connect with me on social media, I would love to help you if needed.
  
-<h4 align='center'>Social Media Handles</h4>
+<h5 align='center'>Social Media Handles</h5>
 <div id="badges" align="center">
    <a href="https://telegram.me/rnovoseloff"><img src="https://github.com/RNOVOSELOV/RNOVOSELOV/blob/main/resources/telegram.png" width="30"></a>&nbsp;&nbsp;
    <a href="https://www.instagram.com/megamutant/"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" width="30"></a>&nbsp;&nbsp;
