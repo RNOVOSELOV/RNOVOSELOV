@@ -6,7 +6,7 @@ Hello, I'm **Roman Novoselov**. Working as [Middle Software Designer](https://ww
  
 <h3 align='center'>Social Media Handles</h3>
 <div id="badges" align="center">
-   <a href="tg://resolve?domain=rnovoseloff"><img src="https://github.com/RNOVOSELOV/RNOVOSELOV/blob/main/resources/telegram.png" width="30"></a>&nbsp;&nbsp;
+   <a href="https://telegram.me/rnovoseloff"><img src="https://github.com/RNOVOSELOV/RNOVOSELOV/blob/main/resources/telegram.png" width="30"></a>&nbsp;&nbsp;
    <a href="https://www.instagram.com/megamutant/"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" width="30"></a>&nbsp;&nbsp;
    <a href="https://www.linkedin.com/in/RNOVOSELOV"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" width="30"></a>&nbsp;&nbsp;
 </div>
