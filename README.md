@@ -6,11 +6,9 @@ Hello there this is **Roman Novoselov**. Working as [Middle Software Designer](h
  
 
 <div id="badges" align="center">
-   <a href="https://www.instagram.com/megamutant/"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png"></a>
+   <a href="tg://resolve?domain=rnovoseloff"><img src="https://github.com/RNOVOSELOV/RNOVOSELOV/blob/main/resources/telegramm.png" width="60"></a>
+   <a href="https://www.instagram.com/megamutant/"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" width="60"></a>
    <a href="https://www.linkedin.com/in/RNOVOSELOV"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" width="60"></a>
-  <a href="https://www.linkedin.com/in/RNOVOSELOV">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
 </div>
 
 ---
