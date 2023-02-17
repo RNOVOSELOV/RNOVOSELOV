@@ -1,6 +1,8 @@
-<h2 align='center'> <i>Hi All!</h2>  
+<h2 align='center'>Hi All!</h2>  
 
 <img align="right" src="https://github.com/RNOVOSELOV/RNOVOSELOV/blob/main/resources/image_1.gif"  width="400">
+
+Hello there this is **Ashutosh Dwivedi**. Working as [Middle software designer](https://www.linkedin.com/in/RNOVOSELOV) at [Azimut](https://en.azimut.ru/). You can see my opensource work down below. I love to code in C++, Dart, Java and etc. You can connect with me on social media, I would love to help you if needed.
   
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/RNOVOSELOV">
