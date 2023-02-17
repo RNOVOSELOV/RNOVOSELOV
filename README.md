@@ -2,7 +2,7 @@
 
 <h3 align='center'>Hi All</h3>  
 
-I'm **Roman Novoselov**. Working as [Middle Software Designer](https://www.linkedin.com/in/RNOVOSELOV) at [Azimut](https://en.azimut.ru/). You can see my pet projects here. I love to code in C++, Dart, Java, etc. You can connect with me on social media, I would love to help you if needed.
+I'm **Roman Novoselov**. Working at [Azimut](https://en.azimut.ru/) company. You can see my pet projects here. I love to code in C++, Dart, Java, etc. You can connect with me on social media, I would love to help you if needed.
  
 <h5 align='center'>Social Media Handles</h5>
 
