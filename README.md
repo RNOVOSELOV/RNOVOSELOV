@@ -38,7 +38,7 @@ Hello, I'm **Roman Novoselov**. Working as [Middle Software Designer](https://ww
 ---
 
 <p align="center">
- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=RNOVOSELOV&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=RNOVOSELOV&theme=light&area=true&hide_border=true&bg_color=FFFFFF&color=555555&title_color=555555" width="100%">
 </p>
 
 
