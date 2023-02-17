@@ -2,8 +2,19 @@
 
 <img align="right" src="https://github.com/RNOVOSELOV/RNOVOSELOV/blob/main/resources/image_1.gif"  width="400">
 
-Hello there this is **Roman Novoselov**. Working as [Middle software designer](https://www.linkedin.com/in/RNOVOSELOV) at [Azimut](https://en.azimut.ru/). You can see my opensource work down below. I love to code in C++, Dart, Java and etc. You can connect with me on social media, I would love to help you if needed.
+Hello there this is **Roman Novoselov**. Working as [Middle Software Designer](https://www.linkedin.com/in/RNOVOSELOV) at [Azimut](https://en.azimut.ru/). You can see my opensource work down below. I love to code in C++, Dart, Java and etc. You can connect with me on social media, I would love to help you if needed.
   
+<table width="100" align='center'>
+<tr>
+    <td align='center' width="60">
+        <a href="https://www.instagram.com/megamutant/"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png"></a>
+    </td>
+    <td align='center' width="60">
+        <a href="https://www.linkedin.com/in/RNOVOSELOV"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" width="60"></a>
+    </td>
+</tr>
+</table>
+
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/RNOVOSELOV">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
