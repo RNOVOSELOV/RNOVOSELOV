@@ -1,3 +1,9 @@
+<style>
+td, th {
+   border: none!important;
+}
+</style>
+
 <h2 align='center'>Hi All!</h2>  
 
 <img align="right" src="https://github.com/RNOVOSELOV/RNOVOSELOV/blob/main/resources/image_1.gif"  width="400">
