@@ -6,9 +6,9 @@ Hello there this is **Roman Novoselov**. Working as [Middle Software Designer](h
  
 
 <div id="badges" align="center">
-   <a href="tg://resolve?domain=rnovoseloff"><img src="https://github.com/RNOVOSELOV/RNOVOSELOV/blob/main/resources/telegram.png" width="60"></a>
-   <a href="https://www.instagram.com/megamutant/"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" width="60"></a>
-   <a href="https://www.linkedin.com/in/RNOVOSELOV"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" width="60"></a>
+   <a href="tg://resolve?domain=rnovoseloff"><img src="https://github.com/RNOVOSELOV/RNOVOSELOV/blob/main/resources/telegram.png" width="30"></a>
+   <a href="https://www.instagram.com/megamutant/"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" width="30"></a>
+   <a href="https://www.linkedin.com/in/RNOVOSELOV"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" width="30"></a>
 </div>
 
 ---
