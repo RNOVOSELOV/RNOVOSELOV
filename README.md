@@ -9,7 +9,7 @@ Hello, I'm **Roman Novoselov**. Working as [Middle Software Designer](https://ww
    <a href="https://telegram.me/rnovoseloff"><img src="https://github.com/RNOVOSELOV/RNOVOSELOV/blob/main/resources/telegram.png" width="30"></a>&nbsp;&nbsp;
    <a href="https://www.instagram.com/megamutant/"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" width="30"></a>&nbsp;&nbsp;
    <a href="https://www.linkedin.com/in/RNOVOSELOV"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" width="30"></a>&nbsp;&nbsp;
-   <a href="mailto:r.novoseloff@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" width="30"></a>&nbsp;&nbsp;
+   <a href="mailto:r.novoseloff@gmail.com"><img src="https://github.com/RNOVOSELOV/RNOVOSELOV/blob/main/resources/gmail.png" width="30"></a>&nbsp;&nbsp;
 </div>
 <br/>
 <br/>
@@ -46,5 +46,3 @@ Hello, I'm **Roman Novoselov**. Working as [Middle Software Designer](https://ww
   &nbsp;&nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RNOVOSELOV&layout=compact&langs_count=8)](https://github.com/RNOVOSELOV)
   <br/>
-  
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:r.novoseloff@gmail.com)
