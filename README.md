@@ -12,6 +12,7 @@ I'm **Roman Novoselov**. Working at [Azimut](https://en.azimut.ru/) company. You
    <a href="https://www.linkedin.com/in/RNOVOSELOV"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" width="30"></a>&nbsp;&nbsp;
    <a href="mailto:r.novoseloff@gmail.com"><img src="https://github.com/RNOVOSELOV/RNOVOSELOV/blob/main/resources/gmail.png" width="30"></a>&nbsp;&nbsp;
 </div>
+<br/>
 
 ---
 #### :hammer_and_wrench: Languages and Tools :
