@@ -4,7 +4,7 @@
 
 I'm **Roman Novoselov**. Working at [Azimut](https://en.azimut.ru/) company. You can see my pet projects here. I love to code in C++, Dart, Java, etc. You can connect with me on social media, I would glad to help you if needed.
  
-<h5 align='center'>Social Media Handles</h5>
+<!-- <h5 align='center'>Social Media Handles</h5> -->
 
 <div id="badges" align="center">
    <a href="https://telegram.me/rnovoseloff"><img src="https://github.com/RNOVOSELOV/RNOVOSELOV/blob/main/resources/telegram.png" width="30"></a>&nbsp;&nbsp;
