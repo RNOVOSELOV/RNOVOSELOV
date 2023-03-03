@@ -37,6 +37,7 @@ I'm **Roman Novoselov**. Working at [Azimut](https://en.azimut.ru/) company. You
 
 ---
 
+<!--
 <p align="center">
  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=RNOVOSELOV&theme=light&area=true&hide_border=true&bg_color=FFFFFF&color=555555&title_color=555555" width="100%">
 </p>
@@ -46,3 +47,4 @@ I'm **Roman Novoselov**. Working at [Azimut](https://en.azimut.ru/) company. You
   &nbsp;&nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RNOVOSELOV&layout=compact&langs_count=8)](https://github.com/RNOVOSELOV)
   <br/>
+-->
