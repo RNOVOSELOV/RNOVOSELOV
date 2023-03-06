@@ -21,7 +21,7 @@ I'm **Roman Novoselov**. Working at [Azimut](https://en.azimut.ru/) company. You
   <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
   <img src="https://github.com/RNOVOSELOV/RNOVOSELOV/blob/main/resources/IOS_logo.svg" title="iOS" alt="iOS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/RNOVOSELOV/RNOVOSELOV/blob/main/resources/cpp_logo.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/RNOVOSELOV/RNOVOSELOV/blob/main/resources/cpp_logo.png" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
